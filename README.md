@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waschberserker
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in having fun... programming is fun!
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on coding stuff
