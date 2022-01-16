@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Alex
-- 👀 I’m interested in having fun... programming is fun!
-- 🌱 I’m currently learning Go and Python... and PHP (because even after 20 years you're never done learning).
-- 💞️ I’m looking to collaborate on fun (programming) stuff
-- 📫 How to reach me alex@waschberserker.com
+- 👋 Hi! We are Waschberserker. Resistance is futile!
+- 👀 We're interested in having fun... programming is fun!
+- 🌱 We're currently learning a lot of stuff
+- 💞️ We're looking to collaborate on fun (programming) stuff
 
 <!---
 waschberserker/waschberserker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
