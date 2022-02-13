@@ -1,4 +1,4 @@
-- 👋 Hi! We are Waschberserker. Resistance is futile!
+- 👋 Hi! We are Waschberserker. Resistance is futile! 🦝
 - 👀 We're interested in having fun... programming is fun!
 - 🌱 We're currently learning a lot of stuff
 - 💞️ We're looking to collaborate on fun (programming) stuff
